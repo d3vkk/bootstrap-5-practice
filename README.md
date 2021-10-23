@@ -6,6 +6,18 @@ For transitioning from Bootstrap 4 to 5. Contains some of the changes and new fe
 
 [Use this article to learn the differences between Bootstrap 5 and 4](https://superdevresources.com/bootstrap5-vs-bootstrap4-whats-new/)
 
+## Contribution
+
+To contribute, [use this guide](https://github.com/d3vkk/open-source/blob/master/CONTRIBUTING.md)
+
+## Usage
+
+Star this repo for future reference
+
+Press `.` to open in browser-based Vscode
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/bootstrap-5-transition)
+
 Fork or clone this repo
 ```
 git clone https://github.com/d3vkk/bootstrap-5-transition.git
